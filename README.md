@@ -4,6 +4,22 @@ In this project our team of 6 were given a partially written MERN stack with bas
 
 The primary challenge was to familiarise ourselves with an unknown codebase and a tech stack we had very limited experience with. Once we had got an understanding of the code we had to improve and add to the code base, sticking to TDD and Agile as we worked.
 
+### Contents
+
+- [Technologies](#technologies)
+- [Planning](#planning)
+  - [Sprints](#sprints)
+  - [MVP User Stories](#mvp-user-stories)
+  - [Stretch User Stories](#stretch-user-stories)
+  - [Wireframes](#wireframes)
+- [Features](#features)
+  - [MVP](#mvp)
+  - [Stretch](#stretch)
+- [To run locally](#to-run-locally)
+- [Testing](#testing)
+- [Learnings](#learnings)
+- [Future Actions](#future-actions)
+
 ## Technologies
 
 <div align="center">
@@ -166,7 +182,7 @@ npm run cypress:open
 
 As a team it was a great experience, getting to work with so many different people on a new tech stack. While it was dauting to start with, our methodical approach at the start, knowledge sharing and being process driven throughout really helped.
 
-Going forward the key takeaway is how to adjust our sprint planning. We didn't break down the tickets into small enough tasks. This sometimes resulted in backlogs and rather than small, frequent pull requests, we had to combine a lot of different branches at the end of the project. In turn this had an impact on our time available to focus on core ways of working like TDD.
+Going forward the key takeaway is how to adjust our sprint planning. We didn't break down the tickets into small enough tasks. This sometimes resulted in backlogs and rather than small, frequent pull requests, we had to combine a lot of different branches at the end of the project. In turn, this had an impact on our time available to focus on core ways of working like TDD.
 
 Overall we learnt a huge amount and very quickly became confident utilisng a MERN stack. Most importantly we also learnt how to structure our team and processes going forward.
 
