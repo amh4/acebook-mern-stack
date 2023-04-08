@@ -7,6 +7,7 @@ The primary challenge was to familiarise ourselves with an unknown codebase and 
 ### Contents
 
 - [Technologies](#technologies)
+- [Demonstration](#demonstration)
 - [Planning](#planning)
   - [Sprints](#sprints)
   - [MVP User Stories](#mvp-user-stories)
@@ -31,6 +32,12 @@ The primary challenge was to familiarise ourselves with an unknown codebase and 
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" /></code>
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
 </div>
+
+## Demonstration
+
+Here's a short demonstration covering some of the functionality
+
+![](./images/demo.gif)
 
 ## Planning
 
